@@ -1,0 +1,5 @@
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter02\Chapter 02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter02\Chapter 02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter02\Chapter 02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter02\Chapter 02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter02\Chapter 02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache

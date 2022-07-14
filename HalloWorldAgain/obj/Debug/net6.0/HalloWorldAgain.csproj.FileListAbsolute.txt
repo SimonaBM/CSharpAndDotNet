@@ -1,0 +1,5 @@
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.AssemblyInfo.cs
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldAgain\obj\Debug\net6.0\HalloWorldAgain.csproj.CoreCompileInputs.cache

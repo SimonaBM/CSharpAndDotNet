@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90f88660-d4b4-492d-a4f5-44f92267509d": {
+      "ProjectGuid": "90f88660-d4b4-492d-a4f5-44f92267509d",
+      "DisplayName": "HalloCS",
+      "ColorIndex": 0
+    },
+    "d6aa1625-b520-45c7-9bab-5b1673c26a64": {
+      "ProjectGuid": "d6aa1625-b520-45c7-9bab-5b1673c26a64",
+      "DisplayName": "TopLevelProgram",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

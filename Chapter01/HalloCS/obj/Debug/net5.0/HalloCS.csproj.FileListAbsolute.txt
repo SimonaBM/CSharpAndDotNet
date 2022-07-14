@@ -1,0 +1,16 @@
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.exe
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.deps.json
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.runtimeconfig.json
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.runtimeconfig.dev.json
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\ref\HalloCS.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\bin\Debug\net5.0\HalloCS.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.AssemblyInfo.cs
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\ref\HalloCS.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter01\HalloCS\obj\Debug\net5.0\HalloCS.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\HalloWorldNet6.exe
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\HalloWorldNet6.deps.json
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\HalloWorldNet6.runtimeconfig.json
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\HalloWorldNet6.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\ref\HalloWorldNet6.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\bin\Debug\net6.0\HalloWorldNet6.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.AssemblyInfo.cs
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\ref\HalloWorldNet6.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\HalloWorldNet6\obj\Debug\net6.0\HalloWorldNet6.genruntimeconfig.cache
