@@ -22,3 +22,10 @@ Console.WriteLine($" default(int) = {default(int)}");
 Console.WriteLine($" default(bool) = {default(bool)}");
 ConsoConsole.WriteLine($" default(DateTime) = {default(DateTime)}");
 ConsoConsole.WriteLine($" default(string) = {default(string)}");
+
+
+int number = 13;
+Console.WriteLine($"number has been set to: {number}");
+number = default;
+Console.WriteLine($"number has been reset to its default: {number}");
+

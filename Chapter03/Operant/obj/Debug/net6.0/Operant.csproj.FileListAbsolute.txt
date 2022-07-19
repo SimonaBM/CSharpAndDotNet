@@ -1,0 +1,15 @@
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\Operant.exe
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\Operant.deps.json
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\Operant.runtimeconfig.json
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\Operant.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\ref\Operant.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\bin\Debug\net6.0\Operant.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.AssemblyInfo.cs
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\ref\Operant.dll
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.pdb
+C:\Users\Simona\Documents\CSharpAndDotNet\Chapter03\Operant\obj\Debug\net6.0\Operant.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet-GH\\CSharpAndDotNet\\HalloWorldAgain\\HalloWorldAgain.csproj",
+      "projectUniqueName": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet\\HalloWorldAgain\\HalloWorldAgain.csproj",
       "projectName": "HalloWorldAgain",
-      "projectPath": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet-GH\\CSharpAndDotNet\\HalloWorldAgain\\HalloWorldAgain.csproj",
+      "projectPath": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet\\HalloWorldAgain\\HalloWorldAgain.csproj",
       "packagesPath": "C:\\Users\\Simona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet-GH\\CSharpAndDotNet\\HalloWorldAgain\\obj\\",
+      "outputPath": "C:\\Users\\Simona\\Documents\\CSharpAndDotNet\\HalloWorldAgain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simona\\AppData\\Roaming\\NuGet\\NuGet.Config",
